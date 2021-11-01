@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @GoM1nH
-- 👀 I’m interested in programming (noob!), Rhythm game, and Fashion.
+- 👀 JUST PROGRAMMING
 - 🌱 I’m currently learning C programming, C++ and .
 
